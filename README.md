@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Awesome Hacker Search Engines</b>
+  <b>Useful Links</b>
 </h1>
 
 <p align="center">
